@@ -9,15 +9,15 @@ Produto artezanal e customizado, tanto para Maternidade quanto para o quarto de 
 
   Produto final visto de lado.
 
-<img width="600" height="600" alt="Aurora" src="https://github.com/L3DAtelier/Imagens/blob/main/Aurora%20Lateral.jpeg" />
+<img width="500" height="600" alt="Aurora" src="https://github.com/L3DAtelier/Imagens/blob/main/Aurora%20Lateral.jpeg" />
 
   Fixado na porta.
 
-<img width="600" height="600" alt="Aurora" src="https://github.com/L3DAtelier/Imagens/blob/main/Aurora%20Enfeite%20de%20porta1.jpeg" />
+<img width="500" height="600" alt="Aurora" src="https://github.com/L3DAtelier/Imagens/blob/main/Aurora%20Enfeite%20de%20porta1.jpeg" />
 
   Fixado na porta e visto mais de longe.
 
-<img width="600" height="600" alt="Aurora" src="https://github.com/L3DAtelier/Imagens/blob/main/Aurora%20Enfeite%20de%20porta2.jpeg" />
+<img width="500" height="600" alt="Aurora" src="https://github.com/L3DAtelier/Imagens/blob/main/Aurora%20Enfeite%20de%20porta2.jpeg" />
 
 # Enfeite de Prateleira
 Produto artezanal e customizado, com o nome da pessoa que vai lembrar de você sempre que olhar"
