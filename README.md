@@ -28,7 +28,8 @@ Produto atezanal, customizada com o nome de quem você quer eternizar com seu Am
 <img width="600" height="800" alt="Aurora RGB" src="https://github.com/L3DAtelier/Imagens/blob/main/Aurora%20RGB.png" />
 
 ## 🎥 Video de demonstração da Luminária Atezanal colorida
-[![Assistir vídeo](src="https://github.com/L3DAtelier/Imagens/blob/main/Aurora%20RGB.png")
+[![Assistir vídeo](Imagens/blob/main/Aurora%20RGB.png)](https://github.com/L3DAtelier/Videos/blob/main/Luminaria%20Aurora.mp4)
+
 
 
 
