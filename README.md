@@ -12,7 +12,7 @@ Luminária Atezanal colorida, customizada com o nome de quem você quer eterniza
 <img width="1200" height="1600" alt="Aurora RGB" src="https://github.com/user-attachments/assets/6fa4f137-0285-4d1f-9b22-667bae2adbd0" />
 
 ## 🎥 Video de demonstração da Luminária Atezanal colorida
-[![Assistir vídeo](images/thumb-video.png)](videos/demo.mp4)
+[![Assistir vídeo](images/thumb-video.png)](videos/Aurora1.mp4)
 
 
 
