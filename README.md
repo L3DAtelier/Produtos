@@ -5,7 +5,7 @@ Enfeite de Porta artezanal e customizado, tanto para Maternidade quanto para o q
 <img width="600" height="600" alt="Aurora" src="https://github.com/user-attachments/assets/1edb9ac0-e166-43ae-ac78-a9f85293c08c" />
 
 Enfeite de Prateleira artezanal e customizado, com o nome da pessoa que vai lembrar de você sempre que olhar"
-<img width="600" height="200" alt="Rael" src="https://github.com/user-attachments/assets/15371a23-32df-4f5b-b636-f8509e709cfe" />
+<img width="600" height="400" alt="Rael" src="https://github.com/user-attachments/assets/15371a23-32df-4f5b-b636-f8509e709cfe" />
 
 
 Luminária Atezanal colorida, customizada com o nome de quem você quer eternizar seu Amor e seu carinho"
