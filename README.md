@@ -5,7 +5,7 @@ Escolha quais dessas lindas opções você quer presentear a quem você ama.
 Produto artezanal e customizado, tanto para Maternidade quanto para o quarto de quem você Ama!
 
   Produto final.
-<img width="600" height="600" alt="Aurora" src="https://github.com/user-attachments/assets/1edb9ac0-e166-43ae-ac78-a9f85293c08c" />
+<img width="600" height="600" alt="Aurora" src="https://github.com/L3DAtelier/Imagens/blob/main/Aurora.jpeg" />
 
   Produto final visto de lado.
 
@@ -28,7 +28,7 @@ Produto atezanal, customizada com o nome de quem você quer eternizar com seu Am
 <img width="600" height="800" alt="Aurora RGB" src="https://github.com/L3DAtelier/Imagens/blob/main/Aurora%20RGB.png" />
 
 ## 🎥 Video de demonstração da Luminária Atezanal colorida
-[![Assistir vídeo](src="https://github.com/L3DAtelier/Imagens/blob/main/Aurora%20RGB.png")([Videos](https://github.com/L3DAtelier/Videos/blob/main/Aurora1.mp4))
+[![Assistir vídeo](src="https://github.com/L3DAtelier/Imagens/blob/main/Aurora%20RGB.png")
 
 
 
