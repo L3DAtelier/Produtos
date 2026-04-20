@@ -7,7 +7,7 @@ Produto artezanal e customizado, tanto para Maternidade quanto para o quarto de 
 Produto final.
 <img width="600" height="600" alt="Aurora" src="https://github.com/user-attachments/assets/1edb9ac0-e166-43ae-ac78-a9f85293c08c" />
 
-Produto final visto de lado
+Produto final visto de lado.
 <img width="600" height="600" alt="Aurora" src="https://github.com/L3DAtelier/Imagens/blob/main/Aurora%20Lateral.jpeg" />
 
 Fixado na porta.
