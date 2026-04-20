@@ -9,4 +9,10 @@ Enfeite de Prateleira artezanal e customizado, com o nome da pessoa que vai lemb
 
 
 Luminária Atezanal colorida, customizada com o nome de quem você quer eternizar seu Amor e seu carinho"
-<img width="1200" height="1600" alt="Aurora RGB" src="https://github.com/user-attachments/assets/ff0a0b89-27e0-46f8-953f-082735fe73df" />
+<img width="1200" height="1600" alt="Aurora RGB" src="https://github.com/user-attachments/assets/6fa4f137-0285-4d1f-9b22-667bae2adbd0" />
+
+
+
+
+
+
